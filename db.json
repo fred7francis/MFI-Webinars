@@ -1,0 +1,416 @@
+{
+    "webinars": [
+        {
+            "id": 1,
+            "title": "Optimizing neonatal care during COVID 19 pandemic",
+            "speaker": "Dr. Anu Sachdeva",
+            "dept": "Associate Professor, AIIMS, New Delhi",
+            "video": "SHch8z7MsWs",
+            "published_at": "2021-02-05T21:23:30.791Z",
+            "created_at": "2021-02-05T19:03:41.381Z",
+            "updated_at": "2021-07-24T09:02:11.100Z",
+            "sections": [
+                {
+                    "id": 32,
+                    "title": "Introduction",
+                    "time": 0,
+                    "sec_id": 1
+                },
+                {
+                    "id": 34,
+                    "title": "Objectives",
+                    "time": 26,
+                    "sec_id": 2
+                },
+                {
+                    "id": 35,
+                    "title": "Chart",
+                    "time": 62,
+                    "sec_id": 3
+                },
+                {
+                    "id": 36,
+                    "title": "Isolation of Mother and Child",
+                    "time": 98,
+                    "sec_id": 4
+                },
+                {
+                    "id": 33,
+                    "title": "Neonatal Resuscitation",
+                    "time": 119,
+                    "sec_id": 5
+                },
+                {
+                    "id": 37,
+                    "title": "Neonatal Resuscitation ",
+                    "time": 171,
+                    "sec_id": 6
+                },
+                {
+                    "id": 38,
+                    "title": "Neonatal Resuscitation",
+                    "time": 243,
+                    "sec_id": 7
+                },
+                {
+                    "id": 49,
+                    "title": "Isolation of COVID positive mother and child",
+                    "time": 259,
+                    "sec_id": 8
+                },
+                {
+                    "id": 47,
+                    "title": "Stable neonates: Management",
+                    "time": 287,
+                    "sec_id": 9
+                },
+                {
+                    "id": 53,
+                    "title": "Conditions to be met for safe breast feeding",
+                    "time": 327,
+                    "sec_id": 10
+                },
+                {
+                    "id": 39,
+                    "title": "Specific logistics for sick neonates",
+                    "time": 380,
+                    "sec_id": 11
+                },
+                {
+                    "id": 40,
+                    "title": "Specific logistics for sick neonates",
+                    "time": 470,
+                    "sec_id": 12
+                },
+                {
+                    "id": 41,
+                    "title": "Sick Neonates: General Management",
+                    "time": 509,
+                    "sec_id": 13
+                },
+                {
+                    "id": 42,
+                    "title": "Sick Neonates: Respiratory Management",
+                    "time": 530,
+                    "sec_id": 14
+                },
+                {
+                    "id": 43,
+                    "title": "Specific anti-COVID-19 treatment",
+                    "time": 597,
+                    "sec_id": 15
+                },
+                {
+                    "id": 44,
+                    "title": "Testing: Which Neonates and When?",
+                    "time": 622,
+                    "sec_id": 16
+                },
+                {
+                    "id": 45,
+                    "title": "Testing: what sample?",
+                    "time": 698,
+                    "sec_id": 17
+                },
+                {
+                    "id": 46,
+                    "title": "Discontinuation of isolation",
+                    "time": 741,
+                    "sec_id": 18
+                },
+                {
+                    "id": 54,
+                    "title": "Discontinuation of isolation",
+                    "time": 790,
+                    "sec_id": 19
+                },
+                {
+                    "id": 48,
+                    "title": "When to discharge an asymptomatic neonate?",
+                    "time": 810,
+                    "sec_id": 20
+                },
+                {
+                    "id": 55,
+                    "title": "When to discharge a symptomatic neonate?",
+                    "time": 830,
+                    "sec_id": 21
+                },
+                {
+                    "id": 50,
+                    "title": "When to discharge the neonate?",
+                    "time": 855,
+                    "sec_id": 22
+                },
+                {
+                    "id": 51,
+                    "title": "Measures at home",
+                    "time": 867,
+                    "sec_id": 23
+                },
+                {
+                    "id": 52,
+                    "title": "Key Points",
+                    "time": 913,
+                    "sec_id": 24
+                }
+            ],
+            "cover": {
+                "id": 8,
+                "name": "hqdefault.jpg",
+                "alternativeText": "",
+                "caption": "",
+                "width": 480,
+                "height": 360,
+                "formats": {
+                    "thumbnail": {
+                        "name": "thumbnail_hqdefault.jpg",
+                        "hash": "thumbnail_hqdefault_9d0fd42f12",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "width": 208,
+                        "height": 156,
+                        "size": 6,
+                        "path": null,
+                        "url": "/uploads/thumbnail_hqdefault_9d0fd42f12.jpg"
+                    }
+                },
+                "hash": "hqdefault_9d0fd42f12",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 10.74,
+                "url": "/uploads/hqdefault_9d0fd42f12.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "created_at": "2021-02-17T21:19:37.609Z",
+                "updated_at": "2021-02-17T21:19:37.640Z"
+            },
+            "speakericon": {
+                "id": 9,
+                "name": "Dr-Anu-Sachdeva.jpg",
+                "alternativeText": "",
+                "caption": "",
+                "width": 236,
+                "height": 234,
+                "formats": {
+                    "thumbnail": {
+                        "name": "thumbnail_Dr-Anu-Sachdeva.jpg",
+                        "hash": "thumbnail_Dr_Anu_Sachdeva_cc0b67c52e",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "width": 157,
+                        "height": 156,
+                        "size": 4.98,
+                        "path": null,
+                        "url": "/uploads/thumbnail_Dr_Anu_Sachdeva_cc0b67c52e.jpg"
+                    }
+                },
+                "hash": "Dr_Anu_Sachdeva_cc0b67c52e",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 8.44,
+                "url": "/uploads/Dr_Anu_Sachdeva_cc0b67c52e.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "created_at": "2021-02-17T21:20:00.627Z",
+                "updated_at": "2021-02-17T21:20:00.647Z"
+            }
+        },
+        {
+            "id": 2,
+            "title": "Multisystem Inflammatory Syndrome in Children Temporally Related to COVID 19",
+            "speaker": "Dr. Satya Prakash",
+            "dept": "Department of Pediatrics, AIIMS, New Delhi",
+            "video": "NTPn3xJH3tM",
+            "published_at": "2021-02-05T19:17:26.053Z",
+            "created_at": "2021-02-05T19:14:05.134Z",
+            "updated_at": "2021-02-20T09:50:35.310Z",
+            "sections": [
+                {
+                    "id": 4,
+                    "title": "Prepared & Reviewed by",
+                    "time": 0,
+                    "sec_id": 1
+                },
+                {
+                    "id": 6,
+                    "title": "Overview",
+                    "time": 6,
+                    "sec_id": 2
+                },
+                {
+                    "id": 7,
+                    "title": "Introduction\t",
+                    "time": 17,
+                    "sec_id": 3
+                },
+                {
+                    "id": 8,
+                    "title": "SARS-CoV-2\t",
+                    "time": 57,
+                    "sec_id": 4
+                },
+                {
+                    "id": 5,
+                    "title": "MIS in children and adolescents temporally related to COVID-19 WHO Case definition\t",
+                    "time": 83,
+                    "sec_id": 5
+                },
+                {
+                    "id": 11,
+                    "title": "Learning from data 01",
+                    "time": 177,
+                    "sec_id": 6
+                },
+                {
+                    "id": 24,
+                    "title": "Learning from data 02",
+                    "time": 194,
+                    "sec_id": 7
+                },
+                {
+                    "id": 25,
+                    "title": "Data from USA",
+                    "time": 222,
+                    "sec_id": 8
+                },
+                {
+                    "id": 26,
+                    "title": "Indian Scenario",
+                    "time": 249,
+                    "sec_id": 9
+                },
+                {
+                    "id": 12,
+                    "title": "Pathogenesis: Postulated Hypotheses",
+                    "time": 278,
+                    "sec_id": 10
+                },
+                {
+                    "id": 13,
+                    "title": "Clinical Features",
+                    "time": 381,
+                    "sec_id": 11
+                },
+                {
+                    "id": 15,
+                    "title": "Clinical Features",
+                    "time": 453,
+                    "sec_id": 12
+                },
+                {
+                    "id": 16,
+                    "title": "Clinical Features",
+                    "time": 464,
+                    "sec_id": 13
+                },
+                {
+                    "id": 17,
+                    "title": "Differential Diagnoses",
+                    "time": 498,
+                    "sec_id": 14
+                },
+                {
+                    "id": 18,
+                    "title": "Investigations",
+                    "time": 580,
+                    "sec_id": 15
+                },
+                {
+                    "id": 19,
+                    "title": "Investigations",
+                    "time": 652,
+                    "sec_id": 16
+                },
+                {
+                    "id": 20,
+                    "title": "Investigations: Epidemiological link with COVID-19",
+                    "time": 678,
+                    "sec_id": 17
+                },
+                {
+                    "id": 21,
+                    "title": "Imaging",
+                    "time": 716,
+                    "sec_id": 18
+                },
+                {
+                    "id": 22,
+                    "title": "Diagnostic Algorithm",
+                    "time": 776,
+                    "sec_id": 19
+                },
+                {
+                    "id": 23,
+                    "title": "Summary",
+                    "time": 860,
+                    "sec_id": 20
+                }
+            ],
+            "cover": {
+                "id": 10,
+                "name": "hqdefault (1).jpg",
+                "alternativeText": "",
+                "caption": "",
+                "width": 480,
+                "height": 360,
+                "formats": {
+                    "thumbnail": {
+                        "name": "thumbnail_hqdefault (1).jpg",
+                        "hash": "thumbnail_hqdefault_1_b830479ab8",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "width": 208,
+                        "height": 156,
+                        "size": 5.83,
+                        "path": null,
+                        "url": "/uploads/thumbnail_hqdefault_1_b830479ab8.jpg"
+                    }
+                },
+                "hash": "hqdefault_1_b830479ab8",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 11.23,
+                "url": "/uploads/hqdefault_1_b830479ab8.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "created_at": "2021-02-17T21:38:01.986Z",
+                "updated_at": "2021-02-17T21:38:02.007Z"
+            },
+            "speakericon": {
+                "id": 11,
+                "name": "Dr-Satya-Prakash.jpg",
+                "alternativeText": "",
+                "caption": "",
+                "width": 236,
+                "height": 234,
+                "formats": {
+                    "thumbnail": {
+                        "name": "thumbnail_Dr-Satya-Prakash.jpg",
+                        "hash": "thumbnail_Dr_Satya_Prakash_c7d4093e18",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "width": 157,
+                        "height": 156,
+                        "size": 5.23,
+                        "path": null,
+                        "url": "/uploads/thumbnail_Dr_Satya_Prakash_c7d4093e18.jpg"
+                    }
+                },
+                "hash": "Dr_Satya_Prakash_c7d4093e18",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 9.92,
+                "url": "/uploads/Dr_Satya_Prakash_c7d4093e18.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "created_at": "2021-02-17T21:38:14.098Z",
+                "updated_at": "2021-02-17T21:38:14.122Z"
+            }
+        }
+    ]
+}
